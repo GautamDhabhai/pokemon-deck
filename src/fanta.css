@@ -41,8 +41,8 @@
     --color-info: '';
     --color-highlight: #fef9c3;
 
-    --gradient-start: #f65959;
-    --gradient-end: #e0e0e0;
+    --gradient-start: #fc2c2c;
+    --gradient-end: #bab9b9;
 
     --border-primary: #f1f5f9;
     --border-secondary: #bed1e7;
@@ -89,8 +89,8 @@
         --color-info: '';
         --color-highlight: #fef9c3;
 
-        --gradient-start: #f65959;
-        --gradient-end: #e0e0e0;
+        --gradient-start: #fc2c2c;
+        --gradient-end: #bab9b9;
 
         --border-primary: #29325b;
         --border-secondary: #323c71;
